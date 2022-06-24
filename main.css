@@ -1,0 +1,28 @@
+.display {
+  box-sizing: border-box;
+  /*width: 75%;*//*これ効かなかった*/
+  height: 40px;
+  font-size: 40px;
+  text-align: right;
+  padding: 0 10px;
+  background-color: black;
+  color: white;
+}
+
+.dentaku {
+  width: 500px;
+  
+}
+
+.button {
+  width: 100%;
+  height: 60px;
+  font-size: 30px;
+  
+}
+
+.dentaku__td {
+  padding: 5px 5px;
+  text-align: center;
+  
+}
